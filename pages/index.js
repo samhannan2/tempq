@@ -834,10 +834,7 @@ export default function Home() {
         `
       </script> */}
       <div id="info">
-        <a href="https://threejs.org" target="_blank" rel="noopener">
-          three.js
-        </a>{" "}
-        css3d - periodic table.
+        <a href="https://threejs.org">three.js</a> css3d - periodic table.
       </div>
       <div id="container"></div>
       <div id="menu">
